@@ -1,6 +1,6 @@
 # A Black-box Adversarial Attack for Poisoning Clustering
 Here we provide the code used to obtain the results proposed in "A Black-box Adversarial Attack 
-for Poisoning Clustering" (Pattern Recognition 2021).
+for Poisoning Clustering" (submitted to Pattern Recognition 2021).
 
 Project structure:
 
