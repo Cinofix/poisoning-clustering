@@ -114,3 +114,21 @@ Build data for robustness analysis:
 ```bash
 $ python src/classification/cifar_features/cifar10.py
 ```
+
+## Acknowledgment
+This work has been partially supported by the PRIN 2017 project RexLearn (grant no. 2017TWNMH2), funded by the Italian Ministry of Education, University and Research; and by BMK, BMDW, and the Province of Upper Austria in the frame of the COMET Programme managed by FFG in the COMET Module S3AI.
+
+
+Please cite the paper with: 
+
+@article{Cina2021PoisoningClustering,
+  title = {A black-Box adversarial attack for poisoning clustering},
+  journal = {Pattern Recognition},
+  volume = {122},
+  pages = {108306},
+  year = {2022},
+  issn = {0031-3203},
+  doi = {https://doi.org/10.1016/j.patcog.2021.108306},
+  url = {https://www.sciencedirect.com/science/article/pii/S0031320321004866},
+  author = {Antonio Emanuele Cinà and Alessandro Torcinovich and Marcello Pelillo},
+}
