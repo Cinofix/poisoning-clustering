@@ -1,0 +1,5 @@
+.idea
+experiments/data/
+src/classification/cifar_features/data/
+legacy/
+__pycache__
