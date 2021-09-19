@@ -120,7 +120,7 @@ This work has been partially supported by the PRIN 2017 project RexLearn (grant 
 
 
 Please cite the paper with: 
-
+```
 @article{Cina2021PoisoningClustering,
   title = {A black-Box adversarial attack for poisoning clustering},
   journal = {Pattern Recognition},
@@ -132,3 +132,4 @@ Please cite the paper with:
   url = {https://www.sciencedirect.com/science/article/pii/S0031320321004866},
   author = {Antonio Emanuele Cinà and Alessandro Torcinovich and Marcello Pelillo},
 }
+```
